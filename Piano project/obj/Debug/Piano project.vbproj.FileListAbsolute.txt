@@ -1,0 +1,55 @@
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\ResolveAssemblyReference.cache
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano_project.Form1.resources
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano_project.Resources.resources
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.vbproj.GenerateResource.Cache
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\bin\Debug\Piano project.exe
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\bin\Debug\Piano project.pdb
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\bin\Debug\Piano project.xml
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.exe
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.xml
+D:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.pdb
+E:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.exe
+E:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.xml
+E:\ICT\Level 3\Unit 14\Piano project\Piano project\obj\Debug\Piano project.pdb
+D:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.exe
+D:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.xml
+D:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.pdb
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.exe
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.xml
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.pdb
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\bin\Debug\Piano project.exe
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\bin\Debug\Piano project.pdb
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\bin\Debug\Piano project.xml
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\ResolveAssemblyReference.cache
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano_project.Form1.resources
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano_project.Resources.resources
+E:\ICT\Level 3\Unit 14\Piano project-P2\Piano project\obj\Debug\Piano project.vbproj.GenerateResource.Cache
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\Piano project.exe
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\Piano project.xml
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\Piano project.pdb
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\bin\Debug\Piano project.exe
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\bin\Debug\Piano project.pdb
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\bin\Debug\Piano project.xml
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\ResolveAssemblyReference.cache
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\Piano_project.Form1.resources
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\Piano_project.Resources.resources
+E:\ICT\Unit 14\P2\Piano project-P2\Piano project\obj\Debug\Piano project.vbproj.GenerateResource.Cache
+E:\ICT\Year 1\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.exe
+E:\ICT\Year 1\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.xml
+E:\ICT\Year 1\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.pdb
+F:\ICT\Year 1\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.exe
+F:\ICT\Year 1\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.xml
+F:\ICT\Year 1\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.pdb
+J:\ICT\Year 1- Completed\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.exe
+J:\ICT\Year 1- Completed\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.xml
+J:\ICT\Year 1- Completed\Unit 14-M-Completed\P2\Piano project-P2\Piano project\obj\Debug\Piano project.pdb
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano project.exe
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano project.xml
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano project.pdb
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\bin\Debug\Piano project.exe
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\bin\Debug\Piano project.pdb
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\bin\Debug\Piano project.xml
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano project.vbprojResolveAssemblyReference.cache
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano_project.Form1.resources
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano_project.Resources.resources
+C:\Users\Rocki\Documents\Tsotne\All Projects\vb-piano\Piano project\obj\Debug\Piano project.vbproj.GenerateResource.Cache
